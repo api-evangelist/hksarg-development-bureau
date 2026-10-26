@@ -64,5 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-HKSARG, Development Bureau is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- https://www.devb.gov.hk/
+The Hong Kong Special Administrative Region Government Development Bureau (HKSARG Development Bureau) is responsible for planning, land use, and urban development policies in Hong Kong. It provides public information, regulatory guidance, and data services related to construction, land allocation, and development projects. The bureau’s website offers resources for developers, stakeholders, and the public, including project updates, policy documents, and contact information.
+
+**Areas:** Company · Government · UrbanPlanning · Development · HongKong
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.devb.gov.hk/)
+- [Documentation](https://www.devb.gov.hk/en/home/index.html)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/hksarg-development-bureau/](https://apis.io/providers/hksarg-development-bureau/).
